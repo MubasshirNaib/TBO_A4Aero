@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "sfXlwqpXFpa8n2HEDmBxSSWH0+W8ZxF4gdN30v2OSbg=",
+  "Source": "Backend.Api",
+  "BasePath": "_content/Backend.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Backend.Api\\wwwroot",
+      "Source": "Backend.Api",
+      "ContentRoot": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\wwwroot\\",
+      "BasePath": "_content/Backend.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\wwwroot\\css\\site.css",
+      "SourceId": "Backend.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\wwwroot\\",
+      "BasePath": "_content/Backend.Api",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}

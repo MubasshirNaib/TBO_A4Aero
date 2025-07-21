@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Backend.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Backend.Api.props",
+      "PackagePath": "build\\Backend.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Backend.Api.props",
+      "PackagePath": "buildMultiTargeting\\Backend.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Backend.Api.props",
+      "PackagePath": "buildTransitive\\Backend.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.core\\dtos\\flightsearchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\dtos\\flightsearchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.infrastructure\\clients\\agencyapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\clients\\agencyapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.core\\interfaces\\iflightsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\interfaces\\iflightsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.infrastructure\\backend.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\backend.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.core\\dtos\\flightsearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\dtos\\flightsearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.application\\services\\agencyvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\services\\agencyvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.application\\services\\flightsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\services\\flightsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.api\\backend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\backend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.api\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.core\\interfaces\\iagencyapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\interfaces\\iagencyapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.application\\backend.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\backend.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.core\\backend.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\backend.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.core\\dtos\\validateagencyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\dtos\\validateagencyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.api\\backend.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\backend.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.infrastructure\\agencyapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\agencyapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E532D7-70A9-4B99-B572-122CC1E732F6}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.core\\dtos\\validateagencyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\dtos\\validateagencyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.api\\controllers\\agencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\controllers\\agencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.core\\interfaces\\iagencyvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\interfaces\\iagencyvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C287AB0-221E-43B6-B135-7758CFF182E5}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BD181B-7C1C-46BB-B4E1-D825F9A91A88}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|d:\\new folder (2)\\a4aero_initial_task\\backend.api\\backend.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC845734-BC07-4A67-82C5-5863F467EE72}|Backend.Core\\Backend.Core.csproj|solutionrelative:backend.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "Backend.Api\\Controllers\\SearchController.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "Backend.Api\\Controllers\\SearchController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:18:47.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFlightSearchService.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Interfaces\\IFlightSearchService.cs",
+              "RelativeDocumentMoniker": "Backend.Core\\Interfaces\\IFlightSearchService.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Interfaces\\IFlightSearchService.cs",
+              "RelativeToolTip": "Backend.Core\\Interfaces\\IFlightSearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:08:42.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlightSearchResponse.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Dtos\\FlightSearchResponse.cs",
+              "RelativeDocumentMoniker": "Backend.Core\\Dtos\\FlightSearchResponse.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Dtos\\FlightSearchResponse.cs",
+              "RelativeToolTip": "Backend.Core\\Dtos\\FlightSearchResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:07:40.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgencyApiClient.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Infrastructure\\Clients\\AgencyApiClient.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\Clients\\AgencyApiClient.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Infrastructure\\Clients\\AgencyApiClient.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\Clients\\AgencyApiClient.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAGUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:42:07.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Backend.Api\\Program.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\Program.cs",
+              "RelativeToolTip": "Backend.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:34:52.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Backend.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Infrastructure\\Backend.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\Backend.Infrastructure.csproj",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Infrastructure\\Backend.Infrastructure.csproj",
+              "RelativeToolTip": "Backend.Infrastructure\\Backend.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T14:27:32.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlightSearchRequest.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Dtos\\FlightSearchRequest.cs",
+              "RelativeDocumentMoniker": "Backend.Core\\Dtos\\FlightSearchRequest.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Dtos\\FlightSearchRequest.cs",
+              "RelativeToolTip": "Backend.Core\\Dtos\\FlightSearchRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:06:43.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgencyValidationService.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Application\\Services\\AgencyValidationService.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Services\\AgencyValidationService.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Application\\Services\\AgencyValidationService.cs",
+              "RelativeToolTip": "Backend.Application\\Services\\AgencyValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:35:22.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend.Api\\appsettings.json",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\appsettings.json",
+              "RelativeToolTip": "Backend.Api\\appsettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T14:15:40.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlightSearchService.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Application\\Services\\FlightSearchService.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Services\\FlightSearchService.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Application\\Services\\FlightSearchService.cs",
+              "RelativeToolTip": "Backend.Application\\Services\\FlightSearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:12:50.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Backend.Api.csproj",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\Backend.Api.csproj",
+              "RelativeDocumentMoniker": "Backend.Api\\Backend.Api.csproj",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\Backend.Api.csproj",
+              "RelativeToolTip": "Backend.Api\\Backend.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T14:28:37.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Backend.Api\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Backend.Api\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-25T16:52:28.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Backend.Application.csproj",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Application\\Backend.Application.csproj",
+              "RelativeDocumentMoniker": "Backend.Application\\Backend.Application.csproj",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Application\\Backend.Application.csproj",
+              "RelativeToolTip": "Backend.Application\\Backend.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T13:34:53.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAgencyApiClient.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Interfaces\\IAgencyApiClient.cs",
+              "RelativeDocumentMoniker": "Backend.Core\\Interfaces\\IAgencyApiClient.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Interfaces\\IAgencyApiClient.cs",
+              "RelativeToolTip": "Backend.Core\\Interfaces\\IAgencyApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:44:48.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Backend.Core.csproj",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Backend.Core.csproj",
+              "RelativeDocumentMoniker": "Backend.Core\\Backend.Core.csproj",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Backend.Core.csproj",
+              "RelativeToolTip": "Backend.Core\\Backend.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T14:26:37.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ValidateAgencyResponse.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Dtos\\ValidateAgencyResponse.cs",
+              "RelativeDocumentMoniker": "Backend.Core\\Dtos\\ValidateAgencyResponse.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Dtos\\ValidateAgencyResponse.cs",
+              "RelativeToolTip": "Backend.Core\\Dtos\\ValidateAgencyResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:24:21.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Backend.Api.http",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\Backend.Api.http",
+              "RelativeDocumentMoniker": "Backend.Api\\Backend.Api.http",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\Backend.Api.http",
+              "RelativeToolTip": "Backend.Api\\Backend.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-25T15:42:54.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AgencyApiSettings.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Infrastructure\\AgencyApiSettings.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\AgencyApiSettings.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Infrastructure\\AgencyApiSettings.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\AgencyApiSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:20:55.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:27:52.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValidateAgencyRequest.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Dtos\\ValidateAgencyRequest.cs",
+              "RelativeDocumentMoniker": "Backend.Core\\Dtos\\ValidateAgencyRequest.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Dtos\\ValidateAgencyRequest.cs",
+              "RelativeToolTip": "Backend.Core\\Dtos\\ValidateAgencyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:22:43.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AgencyController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\Controllers\\AgencyController.cs",
+              "RelativeDocumentMoniker": "Backend.Api\\Controllers\\AgencyController.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\Controllers\\AgencyController.cs",
+              "RelativeToolTip": "Backend.Api\\Controllers\\AgencyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:48:54.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Backend.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Backend.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAoAAAAAAAAAAABSwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T13:53:10.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAgencyValidationService.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Interfaces\\IAgencyValidationService.cs",
+              "RelativeDocumentMoniker": "Backend.Core\\Interfaces\\IAgencyValidationService.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Interfaces\\IAgencyValidationService.cs",
+              "RelativeToolTip": "Backend.Core\\Interfaces\\IAgencyValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:33:53.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Backend.Api\\DependencyInjection.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Api\\DependencyInjection.cs",
+              "RelativeToolTip": "Backend.Api\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:28:56.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Backend.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:01:38.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Backend.Core\\DependencyInjection.cs",
+              "ToolTip": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\DependencyInjection.cs",
+              "RelativeToolTip": "Backend.Core\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:26:55.684Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

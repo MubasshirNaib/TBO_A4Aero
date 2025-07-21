@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u+S8NHNglOA=",
+  "success": true,
+  "projectFilePath": "D:\\New folder (2)\\A4Aero_initial_task\\Backend.Api\\Backend.Core\\Backend.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SHIKHON\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "Backend.Api.Controllers.AgencyController",
+    "Method": "ValidateAgency",
+    "RelativePath": "api/{apiVersion}/Authenticate/ValidateAgency",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Backend.Core.Dtos.ValidateAgencyRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "apiVersion",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend.Api.Controllers.SearchController",
+    "Method": "Search",
+    "RelativePath": "api/v1/Search/Search",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Backend.Core.Dtos.FlightSearchRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

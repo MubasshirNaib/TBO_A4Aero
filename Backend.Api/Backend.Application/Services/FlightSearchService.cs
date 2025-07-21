@@ -13,9 +13,9 @@ namespace Backend.Application.Services
             _agencyApiClient = agencyApiClient;
         }
 
-        public FlightSearchResponse SearchFlights(FlightSearchRequest request)
+        public async Task<FlightSearchResponse> SearchFlights(FlightAvailabilityRQ request)
         {
-            return _agencyApiClient.SearchFlights(request);
+            return await _agencyApiClient.SearchFlights(request);
         }
     }
 }

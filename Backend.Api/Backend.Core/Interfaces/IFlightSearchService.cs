@@ -4,6 +4,7 @@ namespace Backend.Core.Interfaces
 {
     public interface IFlightSearchService
     {
-        FlightSearchResponse SearchFlights(FlightSearchRequest request);
+        // FlightSearchResponse SearchFlights(FlightAvailabilityRQ request);
+        Task<FlightSearchResponse> SearchFlights(FlightAvailabilityRQ request);
     }
 }

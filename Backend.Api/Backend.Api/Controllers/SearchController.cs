@@ -19,16 +19,16 @@ namespace Backend.Api.Controllers
         }
 
         [HttpPost("Search")]
-        public IActionResult Search([FromBody] FlightSearchRequest request)
+        public async Task<IActionResult> SearchAsync([FromBody] FlightAvailabilityRQ request)
         {
-            _logger.LogInformation("Received flight search request for JourneyType: {JourneyType}", request.JourneyType);
+           // _logger.LogInformation("Received flight search request for JourneyType: {JourneyType}", request.JourneyType);
             if (!ModelState.IsValid)
             {
                 _logger.LogWarning("Invalid model state for flight search request: {Errors}", string.Join(", ", ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage)));
                 return BadRequest(ModelState);
             }
 
-            var response = _flightSearchService.SearchFlights(request);
+            var response = await _flightSearchService.SearchFlights(request);
             if (!response.IsSuccess)
             {
                 _logger.LogError("Flight search failed: {Errors}", string.Join(", ", response.Errors.Select(e => e.ToString())));

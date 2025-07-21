@@ -22,7 +22,7 @@
   },
   {
     "ContainingType": "Backend.Api.Controllers.SearchController",
-    "Method": "Search",
+    "Method": "SearchAsync",
     "RelativePath": "api/v1/Search/Search",
     "HttpMethod": "POST",
     "IsController": true,
@@ -30,7 +30,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "Backend.Core.Dtos.FlightSearchRequest",
+        "Type": "Backend.Core.Dtos.FlightAvailabilityRQ",
         "IsRequired": true
       }
     ],

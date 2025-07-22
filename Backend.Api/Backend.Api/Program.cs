@@ -3,6 +3,7 @@ using Backend.Api;
 using Backend.Application.Services;
 using Backend.Core.Interfaces;
 using Backend.Infrastructure;
+using Backend.Infrastructure.appSettingsData;
 using Backend.Infrastructure.Clients;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -26,6 +27,8 @@ builder.Services.AddLogging(logging =>
 });
 // Add to the existing Program.cs
 builder.Services.Configure<AgencyApiSettings>(builder.Configuration.GetSection("AgencyApiSettings"));
+//builder.Services.Configure<ApiRequestDefaults>(
+//    builder.Configuration.GetSection("ApiRequestDefaults"));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

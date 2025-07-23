@@ -15,12 +15,14 @@ namespace Backend.Infrastructure.Clients
         private readonly HttpClient _httpClient;
         private readonly AgencyApiSettings _settings;
         private readonly ILogger<AgencyApiClient> _logger;
+        private readonly Validation _validation;
 
-        public AgencyApiClient(HttpClient httpClient, IOptions<AgencyApiSettings> settings, ILogger<AgencyApiClient> logger)
+        public AgencyApiClient(HttpClient httpClient, IOptions<AgencyApiSettings> settings, ILogger<AgencyApiClient> logger, Validation validation)
         {
             _httpClient = httpClient;
             _settings = settings.Value;
             _logger = logger;
+            _validation = validation;
         }
 
         public async Task<ValidateAgencyResponse> ValidateAgencyAsync(ValidateAgencyRequest request)
@@ -63,8 +65,10 @@ namespace Backend.Infrastructure.Clients
         {
             try
             {
+                var tokenId = await _validation.SearchValidateAgencyAsync(_logger,_settings);
                 // Map FlightAvailabilityRQ to FlightSearchRequest
                 var apiRequest = RequestMapping.MapToFlightSearchRequest(request, _logger,_settings);
+                apiRequest.TokenId=tokenId; 
 
                 var apiUrl = $"{_settings.BaseUrl.TrimEnd('/')}/Search/Search";
                 _logger.LogInformation("Sending flight search request to external API: {ApiUrl}", apiUrl);

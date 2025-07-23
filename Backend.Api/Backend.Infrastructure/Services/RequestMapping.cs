@@ -26,7 +26,7 @@ namespace Backend.Infrastructure.Services
             {
 
                 IPAddress = _settings.IPAddress,
-                TokenId = _settings.TokenId,
+              //  TokenId = _settings.TokenId,
                 EndUserBrowserAgent = _settings.EndUserBrowserAgent,
                 PointOfSale = _settings.PointOfSale,
                 RequestOrigin = _settings.RequestOrigin,
